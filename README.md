@@ -4,3 +4,8 @@
 
  * 我的挑戰開始於 2017/08/17
 
+# Result
+
+ * [Day 1. JavaScript Drum Kit](https://theonlin.github.io/Javascript30/day1/index.html)
+
+ * [Day 2. CSS + JS Clock](https://theonlin.github.io/Javascript30/day2/index.html)
