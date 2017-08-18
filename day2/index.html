@@ -64,6 +64,8 @@
       top:50%;
       transform-origin: 100%;
       transform: rotate(90deg);
+      transition: all 0.05s;
+      transition-timing-function: ease-in-out;
     }
 
     .hour-hand {
@@ -80,8 +82,16 @@
   </style>
 
   <script>
+    const secondHand = document.querySelector('.second-hand');
 
+    function updateClockHand() {
+      const now = new Date();
 
+      const seconds = now.getSeconds();
+      const secondsDegrees = (seconds / 60) * 360 + 90;
+      secondHand.style.transform = `rotate(${secondsDegrees}deg)`;
+    }
+    setInterval(updateClockHand, 1000);
   </script>
 </body>
 </html>
