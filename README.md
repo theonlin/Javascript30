@@ -11,3 +11,5 @@
  * [Day 2. CSS + JS Clock](https://theonlin.github.io/Javascript30/day2/index.html)
 
  * [Day 3. Playing with CSS Variables and JS](https://theonlin.github.io/Javascript30/day3/index.html)
+
+ * [Day 4. Array Cardio Day 1](https://theonlin.github.io/Javascript30/day4/index.html)
