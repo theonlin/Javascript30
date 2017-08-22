@@ -14,4 +14,6 @@
 
  * [Day 4. Array Cardio Day 1](https://theonlin.github.io/Javascript30/day4/index.html)
 
-* [Day 5. Flex Panels Image Gallery](https://theonlin.github.io/Javascript30/day5/index.html)
+ * [Day 5. Flex Panels Image Gallery](https://theonlin.github.io/Javascript30/day5/index.html)
+
+ * [Day 6. Ajax Type Ahead](https://theonlin.github.io/Javascript30/day6/index.html)
