@@ -21,3 +21,5 @@
  * [Day 7. Array Cardio Day 2](https://theonlin.github.io/Javascript30/day7/index.html)
 
  * [Day 8. Fun with HTML5 Canvas](https://theonlin.github.io/Javascript30/day8/index.html)
+
+ * [Day 9. 14 Must Know Dev Tools Tricks](https://theonlin.github.io/Javascript30/day9/index.html)
