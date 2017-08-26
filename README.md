@@ -23,3 +23,5 @@
  * [Day 8. Fun with HTML5 Canvas](https://theonlin.github.io/Javascript30/day8/index.html)
 
  * [Day 9. 14 Must Know Dev Tools Tricks](https://theonlin.github.io/Javascript30/day9/index.html)
+
+ * [Day 10. Hold Shift to Check Multiple Checkboxes](https://theonlin.github.io/Javascript30/day10/index.html)
