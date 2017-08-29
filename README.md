@@ -29,3 +29,5 @@
  * [Day 11. Custon HTML5 Video Player](https://theonlin.github.io/Javascript30/day11/index.html)
 
  * [Day 12. Key Sequence Detection (KONAMI CODE)](https://theonlin.github.io/Javascript30/day12/index.html)
+
+ * [Day 13. Slide in on Scroll](https://theonlin.github.io/Javascript30/day13/index.html)
