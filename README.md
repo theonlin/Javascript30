@@ -31,3 +31,5 @@
  * [Day 12. Key Sequence Detection (KONAMI CODE)](https://theonlin.github.io/Javascript30/day12/index.html)
 
  * [Day 13. Slide in on Scroll](https://theonlin.github.io/Javascript30/day13/index.html)
+
+ * [Day 14. Object and Arrays - Reference VS Copy](https://theonlin.github.io/Javascript30/day14/index.html)
