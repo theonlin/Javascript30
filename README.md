@@ -33,3 +33,5 @@
  * [Day 13. Slide in on Scroll](https://theonlin.github.io/Javascript30/day13/index.html)
 
  * [Day 14. Object and Arrays - Reference VS Copy](https://theonlin.github.io/Javascript30/day14/index.html)
+
+ * [Day 15. LocalStirage and Event Delegation](https://theonlin.github.io/Javascript30/day15/index.html)
