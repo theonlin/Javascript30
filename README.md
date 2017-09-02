@@ -37,3 +37,5 @@
  * [Day 15. LocalStirage and Event Delegation](https://theonlin.github.io/Javascript30/day15/index.html)
 
  * [Day 16. CSS Text Shadow Mouse Move Effect](https://theonlin.github.io/Javascript30/day16/index.html)
+
+ * [Day 17. Sorting Band Names without articles](https://theonlin.github.io/Javascript30/day17/index.html)
