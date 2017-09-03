@@ -39,3 +39,5 @@
  * [Day 16. CSS Text Shadow Mouse Move Effect](https://theonlin.github.io/Javascript30/day16/index.html)
 
  * [Day 17. Sorting Band Names without articles](https://theonlin.github.io/Javascript30/day17/index.html)
+
+ * [Day 18. Tally String Times with Reduce](https://theonlin.github.io/Javascript30/day18/index.html)
