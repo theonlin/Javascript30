@@ -43,3 +43,5 @@
  * [Day 18. Tally String Times with Reduce](https://theonlin.github.io/Javascript30/day18/index.html)
 
  * [Day 19. Unreal Webcam Fun](https://theonlin.github.io/Javascript30/day19/index.html)
+
+ * [Day 20. Native Speech Recognition](https://theonlin.github.io/Javascript30/day20/index.html)
