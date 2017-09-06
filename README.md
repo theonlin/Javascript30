@@ -45,3 +45,5 @@
  * [Day 19. Unreal Webcam Fun](https://theonlin.github.io/Javascript30/day19/index.html)
 
  * [Day 20. Native Speech Recognition](https://theonlin.github.io/Javascript30/day20/index.html)
+
+ * [Day 20. Geolocation based Speedometer and Compass](https://theonlin.github.io/Javascript30/day21/index.html)
