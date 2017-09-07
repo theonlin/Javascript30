@@ -47,3 +47,5 @@
  * [Day 20. Native Speech Recognition](https://theonlin.github.io/Javascript30/day20/index.html)
 
  * [Day 21. Geolocation based Speedometer and Compass](https://theonlin.github.io/Javascript30/day21/index.html)
+
+ * [Day 22. Follow Along Links](https://theonlin.github.io/Javascript30/day22/index.html)
