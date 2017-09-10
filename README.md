@@ -53,3 +53,5 @@
  * [Day 23. Speech Synthesis](https://theonlin.github.io/Javascript30/day23/index.html)
 
  * [Day 24. Sticky Nav](https://theonlin.github.io/Javascript30/day24/index.html)
+
+ * [Day 25. Event Capture, Propagation, Bubbling and Once](https://theonlin.github.io/Javascript30/day25/index.html)
