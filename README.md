@@ -51,3 +51,5 @@
  * [Day 22. Follow Along Links](https://theonlin.github.io/Javascript30/day22/index.html)
 
  * [Day 23. Speech Synthesis](https://theonlin.github.io/Javascript30/day23/index.html)
+
+ * [Day 24. Sticky Nav](https://theonlin.github.io/Javascript30/day24/index.html)
