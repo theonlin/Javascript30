@@ -55,3 +55,5 @@
  * [Day 24. Sticky Nav](https://theonlin.github.io/Javascript30/day24/index.html)
 
  * [Day 25. Event Capture, Propagation, Bubbling and Once](https://theonlin.github.io/Javascript30/day25/index.html)
+
+ * [Day 26. Stripe Follow Along Dropdown](https://theonlin.github.io/Javascript30/day26/index.html)
