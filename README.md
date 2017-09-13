@@ -59,3 +59,5 @@
  * [Day 26. Stripe Follow Along Dropdown](https://theonlin.github.io/Javascript30/day26/index.html)
 
  * [Day 27. Click and Drag to Scroll](https://theonlin.github.io/Javascript30/day27/index.html)
+
+ * [Day 28. Video Speed Controller UI](https://theonlin.github.io/Javascript30/day28/index.html)
