@@ -61,3 +61,5 @@
  * [Day 27. Click and Drag to Scroll](https://theonlin.github.io/Javascript30/day27/index.html)
 
  * [Day 28. Video Speed Controller UI](https://theonlin.github.io/Javascript30/day28/index.html)
+
+ * [Day 29. Counterdown Clock](https://theonlin.github.io/Javascript30/day29/index.html)
