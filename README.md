@@ -63,3 +63,5 @@
  * [Day 28. Video Speed Controller UI](https://theonlin.github.io/Javascript30/day28/index.html)
 
  * [Day 29. Counterdown Clock](https://theonlin.github.io/Javascript30/day29/index.html)
+
+ * [Day 30. Whack A Mole Game](https://theonlin.github.io/Javascript30/day30/index.html)
